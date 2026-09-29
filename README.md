@@ -6,6 +6,7 @@ retrieval-augmented generation and containerized deployment.
 - 🎵 **Junior Data Curator @ Halbestunde** (remote, Germany): API automation pipelines for music processing, and evaluation of optical music recognition (OMR) models
 - 🔊 Interested in **speech & audio ML, LLMs and RAG**, and in music + AI in general
 - 🎸 Head of the Music Club, IIT Indore (2025–26)
+- 🌐 **Portfolio:** [prakrutmoon.vercel.app](https://prakrutmoon.vercel.app)
 - 📫 [prakrutmoon9@gmail.com](mailto:prakrutmoon9@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prakrut-moon-427407290/)
 
 ---
