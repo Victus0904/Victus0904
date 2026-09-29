@@ -1,10 +1,10 @@
 ## Hi, I'm Prakrut 👋
 
-Final-year B.Tech student at **IIT Indore** building **applied AI/ML systems end to end**: speech pipelines, LLM fine-tuning,
-retrieval-augmented generation and containerized deployment.
+Final-year B.Tech student at **IIT Indore** building **applied AI/ML systems end to end**: LLM fine-tuning,
+retrieval-augmented generation, deep learning and containerized deployment.
 
 - 🎵 **Junior Data Curator @ Halbestunde** (remote, Germany): API automation pipelines for music processing, and evaluation of optical music recognition (OMR) models
-- 🔊 Interested in **speech & audio ML, LLMs and RAG**, and in music + AI in general
+- 💡 Interested in **LLMs, RAG, computer vision and applied deep learning**
 - 🎸 Head of the Music Club, IIT Indore (2025–26)
 - 🌐 **Portfolio:** [prakrutmoon.vercel.app](https://prakrutmoon.vercel.app)
 - 📫 [prakrutmoon9@gmail.com](mailto:prakrutmoon9@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prakrut-moon-427407290/)
@@ -39,5 +39,5 @@ retrieval-augmented generation and containerized deployment.
 ### 🛠️ Tech stack
 
 **Languages:** Python · C/C++ · SQL · MATLAB  
-**ML / LLMs:** PyTorch · TensorFlow · Hugging Face Transformers · LangChain · RAG · CNNs · NLP · Speech (Wav2Vec2)  
+**ML / LLMs:** PyTorch · TensorFlow · Hugging Face Transformers · LangChain · RAG · CNNs · NLP · Computer Vision · Audio ML  
 **Tools:** Docker · FastAPI · Streamlit · Gradio · ChromaDB · FAISS · Playwright · Pandas · NumPy · Git
