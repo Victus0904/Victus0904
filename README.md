@@ -3,7 +3,7 @@
 Final-year B.Tech student at **IIT Indore** building **applied AI/ML systems end to end**: LLM fine-tuning,
 retrieval-augmented generation, deep learning and containerized deployment.
 
-- 🎵 **Junior Data Curator @ Halbestunde** (remote, Germany): API automation pipelines for music processing, and evaluation of optical music recognition (OMR) models
+- 🎵 Previously **Junior Data Curator @ Halbestunde** (remote, Germany, Mar–Sep 2026): API automation pipelines for music processing, and evaluation of optical music recognition (OMR) models
 - 💡 Interested in **LLMs, RAG, computer vision and applied deep learning**
 - 🎸 Head of the Music Club, IIT Indore (2025–26)
 - 🌐 **Portfolio:** [prakrutmoon.vercel.app](https://prakrutmoon.vercel.app)
