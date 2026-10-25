@@ -15,7 +15,7 @@ retrieval-augmented generation, deep learning and containerized deployment.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Phoneme-Level Mispronunciation Detection**](https://github.com/Victus0904/phoneme-mispronunciation-detection) | Scores pronunciation per phoneme with CTC forced alignment + GOP on Wav2Vec2, and gives coaching tips. **Pearson r = 0.431** vs 0.378 baseline on speechocean762. | PyTorch · Wav2Vec2 · Gradio · Docker |
+| [**Phoneme-Level Mispronunciation Detection**](https://github.com/Victus0904/phoneme-mispronunciation-detection) | Pronunciation coach that scores every sound you say, flags the ones to retry and tips how to fix them. GOP features on a frozen Wav2Vec2 with a GBM + transformer ensemble: **Pearson r = 0.753** (up from 0.448) on speaker-disjoint speechocean762, plus fluency/prosody scores, minimal-pair drills, strictness levels, a voice coach, and an Android app. | PyTorch · Wav2Vec2 · FastAPI · Android |
 | [**Multimodal PDF RAG**](https://github.com/Victus0904/multimodal-pdf-rag) | Answers questions over PDF text, tables *and* images. Unstructured parsing, Gemini embeddings and a ChromaDB store behind a FastAPI service. | Gemini · ChromaDB · FastAPI · Docker |
 | [**Multi-Agent Research System**](https://github.com/Victus0904/Multi_Agent_AI_Research_System) | Agents that search the web, scrape sources, write a structured report and critique it. | LangChain · Mistral · Tavily |
 | [**Staff-Line Removal (OMR)**](https://github.com/Victus0904/Staff-Line-Removal-CVC-MUSCIMA) | UNet segmentation of handwritten music scores with Focal + Dice loss. **IoU 0.991** on CVC-MUSCIMA. | PyTorch · OpenCV |
