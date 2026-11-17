@@ -15,7 +15,7 @@ retrieval-augmented generation, deep learning and containerized deployment.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Phoneme-Level Mispronunciation Detection**](https://github.com/Victus0904/phoneme-mispronunciation-detection) | Pronunciation coach that scores every sound you say, flags the ones to retry and tips how to fix them. GOP features on a frozen Wav2Vec2 with a GBM + transformer ensemble: **Pearson r = 0.753** (up from 0.448) on speaker-disjoint speechocean762, plus fluency/prosody scores, minimal-pair drills, strictness levels, a voice coach, and an Android app. | PyTorch · Wav2Vec2 · FastAPI · Android |
+| [**Phoneme-Level Mispronunciation Detection**](https://github.com/Victus0904/phoneme-mispronunciation-detection) | Pronunciation coach that scores every sound you say, flags the ones to retry and tips how to fix them. GOP-SF features on a fine-tuned Wav2Vec2 with a GBM + transformer head: **Pearson r = 0.80** vs. expert raters (up from 0.45) on unseen speakers, fine-tuned across six first languages. Live PWA with accounts, a voice coach, minimal-pair drills and an Android app. | PyTorch · Wav2Vec2 · FastAPI · Modal |
 | [**Multimodal PDF RAG**](https://github.com/Victus0904/multimodal-pdf-rag) | Answers questions over PDF text, tables *and* images. Unstructured parsing, Gemini embeddings and a ChromaDB store behind a FastAPI service. | Gemini · ChromaDB · FastAPI · Docker |
 | [**Multi-Agent Research System**](https://github.com/Victus0904/Multi_Agent_AI_Research_System) | Agents that search the web, scrape sources, write a structured report and critique it. | LangChain · Mistral · Tavily |
 | [**Staff-Line Removal (OMR)**](https://github.com/Victus0904/Staff-Line-Removal-CVC-MUSCIMA) | UNet segmentation of handwritten music scores with Focal + Dice loss. **IoU 0.991** on CVC-MUSCIMA. | PyTorch · OpenCV |
@@ -25,6 +25,7 @@ retrieval-augmented generation, deep learning and containerized deployment.
 <details>
 <summary><b>More projects</b></summary>
 
+- [Neural Audio Codec Probing](https://github.com/Victus0904/codec-probing): what the RVQ levels of Kyutai's Mimi codec encode (content vs. speaker identity), CPU-only
 - [Multilingual PDF Chatbot (RAG)](https://github.com/Victus0904/multilingual-pdf-rag-chatbot): Llama 2 + FAISS + M2M100 translation
 - [AI-Powered MIDI Transcription & Generation](https://github.com/Victus0904/AI-Powered-MIDI-Transcription-Generation): audio → MIDI with ML
 - [GAN for Handwritten Digits](https://github.com/Victus0904/Generative_Adversarial_Network): PyTorch Lightning
